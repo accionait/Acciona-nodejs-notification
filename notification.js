@@ -2,7 +2,7 @@ var gcm 		= require('node-gcm');
 var forEach		= require('async-foreach').forEach;
 
 /*--GCM--*/
-var sender = new gcm.Sender('AIzaSyDY-HnR2DOqLQ32kV33TP-jySpxB67Rlyk');
+var sender = new gcm.Sender('AIzaSyCNTdkRdi_3crhr_SII-mDg6T0r81DeZTQ');
 /*--GCM--*/
 
 function sendNotification(message, title, gcmIds){

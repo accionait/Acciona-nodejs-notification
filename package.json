@@ -1,5 +1,20 @@
 {
   "name": "notification",
   "version": "0.0.1",
-  "private": false
+  "private": false,
+  "description": "Módulo para enviar notificaciones a aplicaciones Android",
+  "main": "notification.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/accionait/Acciona-nodejs-notification.git"
+  },
+  "author": "Matias De Bórtoli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/accionait/Acciona-nodejs-notification/issues"
+  },
+  "homepage": "https://github.com/accionait/Acciona-nodejs-notification"
 }
